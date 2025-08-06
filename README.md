@@ -10,13 +10,9 @@ Dominant in open play
 
 2023: Kane outperformed xG by +10 — split between late Spurs form and debut Bayern season.
 
-⚙️ Stack:
-🐍 Python (Understat API via custom wrapper)
+Tech Stack:
+Python (Understat API via custom wrapper), Tableau (for final visualization), MS Paint (to stitch and inverse colors)
 
-📊 Tableau (for final visualization)
-
-🖌️ MS Paint (to stitch and label panels)
-
-📁 Notebooks:
+Notebooks:
 understat_api_player.ipynb – Pulls player-level shot data
 
